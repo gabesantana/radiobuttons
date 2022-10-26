@@ -1,0 +1,5 @@
+<div class="field radiobox">
+            <span>Deseja receber nossas novidades?</span>
+            <input type="radio" name="novidades" id="sim" value="sim" checked><label for="sim">Sim</label>
+            <input type="radio" name="novidades" id="nao" value="nao"><label for="nao">Não</label>
+        </div>
